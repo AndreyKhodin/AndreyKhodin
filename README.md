@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreyKhodin
-- 👀 I’m interested in QA,Web,Python
-- 🌱 I’m currently learning QA
+- 👀 I’m interested in Web,Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: khodin9@gmail.com telegram +375 29 193 64 59
 
